@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/alier.github.io/build/static/css/main.a50bd5f2.css",
-    "main.js": "/alier.github.io/build/static/js/main.a25cb8dc.js",
-    "static/js/453.1407b060.chunk.js": "/alier.github.io/build/static/js/453.1407b060.chunk.js",
-    "static/media/logo.svg": "/alier.github.io/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/alier.github.io/build/index.html",
-    "main.a50bd5f2.css.map": "/alier.github.io/build/static/css/main.a50bd5f2.css.map",
-    "main.a25cb8dc.js.map": "/alier.github.io/build/static/js/main.a25cb8dc.js.map",
-    "453.1407b060.chunk.js.map": "/alier.github.io/build/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/alier.github.io/static/css/main.2509d31c.css",
+    "main.js": "/alier.github.io/static/js/main.79c3d88c.js",
+    "static/js/453.1407b060.chunk.js": "/alier.github.io/static/js/453.1407b060.chunk.js",
+    "index.html": "/alier.github.io/index.html",
+    "main.2509d31c.css.map": "/alier.github.io/static/css/main.2509d31c.css.map",
+    "main.79c3d88c.js.map": "/alier.github.io/static/js/main.79c3d88c.js.map",
+    "453.1407b060.chunk.js.map": "/alier.github.io/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a50bd5f2.css",
-    "static/js/main.a25cb8dc.js"
+    "static/css/main.2509d31c.css",
+    "static/js/main.79c3d88c.js"
   ]
 }
