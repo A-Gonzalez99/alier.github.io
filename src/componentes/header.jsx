@@ -12,7 +12,7 @@ export default function Header() {
 
   return (
     <div className="header-background">
-      <img className="header-logo" onClick={logoClick} src="/imgs/logoB.png" alt="Logo" />
+      <img className="header-logo" onClick={logoClick} src="https://avatars.githubusercontent.com/u/115429034?s=400&u=d2a96c95f36df36063a01202499175fa07b78e16&v=4" alt="Logo" />
       <div className="header-buttons">
         <ButtonHeader texto="Inicio" url="/" />
         <ButtonHeader texto="Proyectos" url="/proyectos" />
